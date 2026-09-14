@@ -34,3 +34,78 @@ I value collaboration, constructive feedback and the opportunity to contribute t
 - Unit Testing
 - Integration Testing
 - System Programming
+
+## Projects
+
+### Webserv
+
+Group project — custom HTTP/1.0 web server implemented in C++.
+
+- Implemented request handling, routing and response generation.
+- Established automated testing and CI workflows using GitHub Actions.
+- Coordinated development as Project Manager.
+
+Source code: https://github.com/tim-daria/webserv
+
+### Anabin Database Downloader
+
+Personal Python tool for extracting university, institution and degree
+data from the Anabin database.
+
+Source code: https://github.com/tim-daria/anabin_database
+
+### Minishell
+
+Group project — a Unix shell implemented in C.
+
+- Implemented command execution.
+- Implemented redirections and pipes.
+- Implemented built-in commands.
+- Replicated basic Bash behaviour.
+
+Source code: https://github.com/LaraKraemer/minishell
+
+## Experience
+
+**Get2Germany**
+
+Software Engineer, Internship
+09/2025 – 03/2026
+Berlin, Germany
+
+- Developed product features using Python and Django.
+- Worked with AWS cloud infrastructure, including EC2 and RDS.
+- Contributed to product improvements by combining software engineering and medical domain knowledge.
+
+## Education
+
+### 42 Berlin — Software Engineering Program
+
+11/2024 – present
+Berlin, Germany
+
+- Python / Django
+- React
+- AI service integration
+- C/C++
+- Algorithms and data structures
+- Memory management
+- Debugging
+- Linux system programming
+- Peer code reviews
+- Agile teamwork
+
+### Kazan State Medical University
+
+09/2015 – 06/2021
+Kazan, Russia
+
+Specialization: Pediatrics
+
+### Kazan State University
+
+09/2017 – 06/2020
+Kazan, Russia
+
+Specialization: Translator in the field of professional communication
+(German language)
