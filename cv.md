@@ -109,3 +109,10 @@ Kazan, Russia
 
 Specialization: Translator in the field of professional communication
 (German language)
+
+## Languages
+
+- Russian — Native
+- German — C1
+- English — C1
+- Tatar — A2
